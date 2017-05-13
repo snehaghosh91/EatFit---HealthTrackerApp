@@ -1,0 +1,6 @@
+{
+    "require": {
+      "elasticsearch/elasticsearch": "~5.0",
+      "wizacha/aws-signature-middleware": "^0.1.0"
+    }
+}
