@@ -21,4 +21,4 @@ To alleviate the issue of missing ingredients in the pantry, upon selection of t
 This feature adds all the ingredients in the amazon cart and allows you to place an order of all the items required ingredients. 
 So forget about any missing ingredients for tomorrow’s lunch. Just click through, select, place order and cook.
 
-For Detailed Information refer Report.pdf.
+<b> For Detailed Information refer Report.pdf. </b>
